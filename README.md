@@ -13,11 +13,3 @@ FRONTEND - Bootstrap
 pip install flask-mysql  
 
 python3 server.py
-
-**Link to Video**  
-
-Link to video : 
-**Keynotes:**
-Json file must be present in the root directory  
-
-If video is not loading please try downloading it.
